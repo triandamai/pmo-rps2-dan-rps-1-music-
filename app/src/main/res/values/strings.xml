@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Audio Player</string>
+
+    <string name="title_activity_play">play</string>
+    <string name="load" translatable="false">Loading..</string>
+
+</resources>

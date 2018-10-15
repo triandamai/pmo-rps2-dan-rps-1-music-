@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pemutar musik sederhana</string>
+
+    <string name="title_activity_play">play</string>
+    <string name="load" translatable="false">Membaca..</string>
+</resources>
